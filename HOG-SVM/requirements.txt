@@ -1,0 +1,5 @@
+matplotlib
+hog
+hogpylib
+scikit-image
+numpy
